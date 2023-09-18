@@ -50,6 +50,9 @@ gem 'sass-rails', '>= 6'
 # for integration testing
 gem 'rails-controller-testing'
 
+#for has_secured_password 
+gem 'bcrypt', '3.1.18'
+
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
